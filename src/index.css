@@ -1,0 +1,38 @@
+.container {
+  max-width: 500px;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+.search-box {
+  margin-bottom: 10px;
+}
+
+.loader {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.error-message {
+  color: red;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.loading-cards {
+  margin-top: 10px;
+}
+
+.card {
+  margin-bottom: 10px;
+}
+
+.empty {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.results {
+  margin-top: 10px;
+}
